@@ -2,13 +2,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AronLimos.AronLimos" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=CourierPrime&size=35&center=true&vCenter=true&width=500&height=70&duration=4200&lines=WELCOME+TO+MY+PAGE+🎱;+MY+NAME+IS+ARON+🇨🇦;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=CourierPrime&size=35&center=true&vCenter=true&width=500&height=70&duration=4200&lines=WELCOME+TO+MY+PAGE+🎱;+HAVE+A+GREAT+DAY+🇨🇦;" />
 </h1>
 
 <br>
 <br/>
     
-
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
