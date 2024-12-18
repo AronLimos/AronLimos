@@ -2,10 +2,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AronLimos.AronLimos" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?          font=CourierPrime&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
-
+    <img src="https://readme-typing-svg.herokuapp.com/?          font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=WELCOME+🎱;+To+My+Profile+🇨🇦;" />
 </h1>
-## Hi there 👋
+
 
 <!--
 **AronLimos/AronLimos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
