@@ -33,11 +33,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div width="60" height="60" Center=true align="center">
-    <h1>This a Test</h1>
-</div>
-<div>
-    <img src="[[https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg](https://www.rawpixel.com/search/cat%20transparent)](https://www.rawpixel.com/search/cat%20transparent)" title="Git" **alt="Git" width="60" height="60"/>
-</div>
+
 
 
