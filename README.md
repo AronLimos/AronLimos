@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div width="60" height="60" Center=true >
+<div width="60" height="60" Center=true align="center">
     <h1>This a Test</h1>
 </div>
 ## This is a test
