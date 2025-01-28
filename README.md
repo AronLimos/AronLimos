@@ -9,6 +9,8 @@
 <br/>
     
 <div align="center">
+    
+![cat gif](https://github.com/user-attachments/assets/952c3075-33cc-4622-9f2e-4c1a95c38da9)
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
@@ -19,7 +21,6 @@
 
 </div>
 
-![cat gif](https://github.com/user-attachments/assets/952c3075-33cc-4622-9f2e-4c1a95c38da9)
 
 
 <!--
