@@ -19,6 +19,9 @@
 
 </div>
 
+![cat gif](https://github.com/user-attachments/assets/952c3075-33cc-4622-9f2e-4c1a95c38da9)
+
+
 <!--
 **AronLimos/AronLimos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
